@@ -2,7 +2,7 @@
 
 const Business = () => {
   return (
-    <div>Business</div>
+    <div>Busine</div>
   )
 }
 
